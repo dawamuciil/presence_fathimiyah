@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547253653016",
+    "project_id": "mi-fathimiyah-46930",
+    "storage_bucket": "mi-fathimiyah-46930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547253653016:android:f5efc098191d1de02a7d6d",
+        "android_client_info": {
+          "package_name": "com.mifathimiyah.mi_fathimiyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547253653016-vohqfbv3d6eee9b3c2b4a7pp3mvffadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBjJUv_YCx5uTJIaDnLUmKJYC5tkYoJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547253653016-vohqfbv3d6eee9b3c2b4a7pp3mvffadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
